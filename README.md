@@ -1,5 +1,16 @@
+<h1 align="center">Hi 👋, I'm Azkaame</h1>
 
+<p align="center">
+  A developer passionate about building modern applications and exploring new technologies.
+</p>
 
+<br>
+
+<h2 align="center">📊 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="900"/>
+</p>
 
 
 
