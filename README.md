@@ -1,4 +1,3 @@
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=generosomm">
