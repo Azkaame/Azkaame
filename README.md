@@ -9,14 +9,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I specialize in clean architecture and user-centered interfaces.
-- I shape short-form and long-form content into clear, high-retention stories designed for social platforms
+- I am a passionate web developer who enjoys building clean, responsive, and user-centered digital experiences.
+- I focus on writing structured and maintainable code while transforming ideas into functional web applications. Beyond programming, I am also interested in photography and videography, especially visual storytelling and creative content production.
 
 
 ## 🧠 My Focus Areas
 - Full Stack Programming
-- Digital Marketing
 - Web Development
+- Photography and Videography
 
 
 ## 📊 GitHub Stats & Trophies
